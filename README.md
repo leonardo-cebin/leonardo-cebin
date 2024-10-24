@@ -18,12 +18,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
+<!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
+<a href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
+<a href="mailto:leonardo.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>
 </p>
 </p>
 
@@ -80,10 +78,10 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&theme=dracula&show_icons=true)
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
 
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br> -->
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-cebin&theme=dark" alt="leonardo-cebin" /></p> Aguardando quando eu for mais ativo no GitHub 
 
 <br><br><br><br><br><br>--> 
@@ -91,11 +89,7 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
-<!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
-<a href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
-<a href="mailto:leonardo.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>
-</p>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-cebin&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-cebin" /> </p>
 <!--
