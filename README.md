@@ -2,8 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-cebin&theme=dark" alt="leonardo-cebin" /></p> Aguardando quando eu for mais ativo no GitHub --> 
-<br><br><br><br><br><br><br><br><br><br>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-cebin&theme=dark" alt="leonardo-cebin" /></p> Aguardando quando eu for mais ativo no GitHub 
+
+<br><br><br><br><br><br>--> 
+<br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
