@@ -7,10 +7,10 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
 <!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
-<a href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="40" /></a>
-<a href="mailto:leonardo.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="40" /></a>
+<a href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>
+<a href="mailto:leonardo.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-cebin&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-cebin" /> </p>
