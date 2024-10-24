@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-cebin&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-cebin" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-cebin&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-cebin" /> </p> -->
  </p>
  <p align="center">
 </p>
