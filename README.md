@@ -30,8 +30,8 @@
 <p align="center">
   <em>
     Hello, I am Leonardo Sinclair Cebin a <b>physicist, coder and teacher</b> from <a href="https://portal.ifi.unicamp.br/en/"> <b>UNICAMP</b>, Brazil ("Wisdom is all wealth")</a>. <br>
-    <b>a passionate self-learner</b> and a <b>Artificial Intelligence enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    <b>a passionate self-learner</b> and an <b>Artificial Intelligence enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking throught it seeking to find patterns that are hidden between the lines, invisible to the untrained eye. 
   </em> 
   <br>
 
