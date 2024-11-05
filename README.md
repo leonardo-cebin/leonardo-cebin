@@ -74,11 +74,11 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=synth&show_icons=true&langs_count=7)
 
+ <hr>
+<p>Thanks for stopping by! 🤝</p>
+
 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br> -->
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-cebin&theme=dark" alt="leonardo-cebin" /></p> Aguardando quando eu for mais ativo no GitHub 
-
-<hr>
-<p>Thanks for stopping by! 🤝</p>
 
