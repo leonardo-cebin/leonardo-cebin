@@ -69,10 +69,9 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
 
- <h1>🛠️ Tech Stack</h1>
+ <h3>🛠️ Tech Stack</h3>
  <hr>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=synth&show_icons=true&langs_count=7)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=synth&show_icons=true&langs_count=7)
 
 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
