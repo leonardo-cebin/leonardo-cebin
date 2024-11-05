@@ -79,9 +79,6 @@
 <br><br><br><br><br> -->
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-cebin&theme=dark" alt="leonardo-cebin" /></p> Aguardando quando eu for mais ativo no GitHub 
 
-<br><br><br><br><br><br>--> 
-<!--
-**leonardo-cebin/leonardo-cebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <hr>
 <p>Thanks for stopping by! 🤝</p>
+
