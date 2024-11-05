@@ -11,7 +11,7 @@
  <p align="center">
 </p>
 <hr>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Leonardo%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Leonardo%2C+welcome+to+my+profile!+%3A)" alt="Typing SVG" /></a>
 <h3 align="center">Physicist and Coder</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
