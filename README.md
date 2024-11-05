@@ -84,4 +84,4 @@
 **leonardo-cebin/leonardo-cebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <hr>
-Thanks for stopping by! 🤝
+<p>Thanks for stopping by! 🤝</p>
