@@ -68,6 +68,9 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
+
+ <h1>🛠️ Tech Stack</h1>
+ <hr>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=synth&show_icons=true&langs_count=7)
 
