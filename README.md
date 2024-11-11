@@ -13,8 +13,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin-554382325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
 <!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
-<a href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
-<a href="mailto:leonardo.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>
+<a title="My personal electronic mail account" href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
+<a title="For academic purposes" href="mailto:college.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>&nbsp&nbsp
+<a title="For job opportunities and freelance offers, contact me through here!" href="mailto:college.cebin@outlook.com" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/0iZnDRkCMzcK6ZxLbg83jSlR_GZHLCPc32sfNt01lfMRUqnOyKW9qKE_-64YnSpq3A" height="30" width="30" /></a>
 </p>
 </p>
 
