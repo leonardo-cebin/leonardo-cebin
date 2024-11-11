@@ -74,9 +74,11 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=merko&show_icons=true&langs_count=7)
 
- <p align="center" >
+<p align="center" >
 	<picture>
-	  ![](./profile-3d-contrib/profile-green-animate.svg)
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
