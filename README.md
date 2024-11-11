@@ -76,7 +76,7 @@
 
  <p align="center" >
 	<picture>
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/profile-3d-contrib/profile-green.svg" />
+	  ![](./profile-3d-contrib/profile-green-animate.svg)
 	</picture>
 </p>
 
