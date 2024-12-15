@@ -73,7 +73,7 @@
  <h3>🛠️ Tech Stack</h3>
  <hr>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=merko&show_icons=true&langs_count=9)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cebin&layout=compact&theme=merko&show_icons=true&langs_count=11)
 
 <p align="center" >
 	<picture>
