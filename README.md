@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <em>	Olá, sou Leonardo Cebin! Atualmente estou me formando em Geofísica pelo Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP. Apaixonado por aprender as coisas sozinho, autodidaticamente e consumindo livros.<br >Gosto de estar indo em eventos, bootcamps presenciais e participar de hackathons sempre que posso aqui na cidade de São Paulo.<br >No meu portfólio, fiz desde sistemas de crédito para financiadoras, games 16 bits até simplificadas redes neurais. Sou profundamente interessado pelo estudo de como redes neurais funcionam, e como elas vieram a formar as LLMs (as inteligências artificiais) que hoje todos nós conhecemos.
+  <em>	Olá, sou Leonardo Cebin! Atualmente estou me formando em Geofísica pelo Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP. Apaixonado por aprender as coisas sozinho, autodidaticamente e consumindo livros.<br >Gosto de ir a eventos, bootcamps presenciais e participar de hackathons sempre que posso aqui na cidade de São Paulo.<br >No meu portfólio, fiz desde sistemas de crédito para financiadoras, games 16 bits até simplificadas redes neurais. Sou profundamente interessado pelo estudo de como redes neurais funcionam, e como elas vieram a formar as LLMs (as inteligências artificiais) que hoje todos nós conhecemos.
   </em> 
   <br>
 
