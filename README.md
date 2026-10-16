@@ -22,9 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Leonardo Sinclair Cebin a <b>physicist, coder and teacher</b> from <a href="https://portal.ifi.unicamp.br/en/"> <b>UNICAMP</b>, Brazil ("Wisdom is all wealth")</a>. <br>
-    <b>a passionate self-learner</b> and an <b>Artificial Intelligence enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking throught it seeking to find patterns that are hidden between the lines, laying just there, invisible to the untrained eye. 
+	Olá, sou Leonardo Cebin! Atualmente estou me formando em Geofísica pelo Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP. Apaixonado por aprender as coisas sozinho, autodidaticamente e consumindo livros.
   </em> 
   <br>
 
