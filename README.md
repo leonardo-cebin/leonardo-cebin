@@ -13,9 +13,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
 <!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
-<!-- <a title="My personal electronic mail account" href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp -->
+<a title="My personal electronic mail account" href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
 <a title="My academic email account, for university related subjects" href="mailto:college.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>&nbsp&nbsp
-<a title="For job opportunities and freelance offers, contact me through here!" href="mailto:leonardocebin@linuxmail.org" target="blank"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2019/10/5da29e953c401.png" height="35" width="35" /></a>
 </p>
 </p>
 
@@ -78,8 +77,8 @@
 <p align="center" >
 	<picture>
 	<!--  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/day.svg" /> -->
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/profile-night-green.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/day.svg" /> 
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/leonardo-cebin/leonardo-cebin/output-3d-contrib/profile-night-green.svg" /> -->
 	</picture>
 </p>
 
