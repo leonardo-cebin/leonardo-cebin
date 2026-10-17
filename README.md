@@ -7,9 +7,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-cebin&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-cebin" /> </p> -->
  </p>
  <p align="center">
+	 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=F%C3%ADsico+%26+Geof%C3%ADsico;Desenvolvedor+%26+Professor;Entusiasta+de+AI+Safety+%26+Data+Science" alt="Typing SVG" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Leonardo%2C+welcome+to+my+profile!+%3A)" alt="Typing SVG" /></a>
-<h3 align="center">Physicist and Coder</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
 <!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
