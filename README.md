@@ -26,27 +26,27 @@
   
   <!-- Início das 8 Caixas de Imagens Clicáveis (110x110) -->
   
-  <a href="URL_DE_DESTINO_2" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.iag.usp.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMlpiG5lFJ3dWjKI9LSuXQw0NNx_IT5cPRyVJ3z5Uee_5lJX9dNsA9tA&s=10" width="110" height="110" alt="Imagem 2"/>
   </a>&nbsp;&nbsp;
   
-  <a href="URL_DE_DESTINO_1" target="_blank" rel="noopener noreferrer">
+  <a href="https://portal.if.usp.br/ifusp/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOzJhyW-nIrAEknfTlHvwge4PD1sFeppNk5-E6_ifJXz92-OXbIDUBIw&s=10" width="110" height="110" alt="IFUSP" />
   </a>&nbsp;&nbsp;
 
-  <a href="URL_DE_DESTINO_8" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.iag.usp.br/geofisica" target="_blank" rel="noopener noreferrer">
     <img src="https://yt3.googleusercontent.com/T0nh1JCXOpUO712U07k_KSktLba9tx4b91lHvZXB8GHRK3iBC66yxzghEi5uSHOGHZ3zEwT1=s176-c-k-c0x00ffffff-no-rj-mo" width="110" height="110" alt="Imagem 8"/>
   </a>&nbsp;&nbsp;
 
-  <a href="URL_DE_DESTINO_4" target="_blank" rel="noopener noreferrer">
+  <a href="https://www5.usp.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.esquerdadiario.com.br/IMG/arton13446.png" width="110" height="110" alt="Imagem 4" object-fit: cover />
   </a>&nbsp;&nbsp;
   
-  <a href="URL_DE_DESTINO_5" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.uspempreende.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SW6zj-5FfGzilbOZ9RiNCLeRpTiVvRPVdudF2xX1QxqTesvgzGpquvE&s=10" width="110" height="110" alt="Imagem 5"/>
   </a>&nbsp;&nbsp;
   
-  <a href="URL_DE_DESTINO_6" target="_blank" rel="noopener noreferrer">
+  <a href="https://br.linkedin.com/company/laboratorio-diplomatico" alt="Laboratório Diplomático da USP" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWwPTb9PbFYAGY8aZEuS_Yww5rk0lzxnIdEwu-cqZjLe_CqYxVHYNqMUw&s=10" width="110" height="110" alt="Imagem 6"/>
   </a>&nbsp;&nbsp;
   <!-- Fim das Caixas de Imagens Clicáveis -->
