@@ -7,7 +7,7 @@
  </p>
  <p align="center">
 	 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=F%C3%ADsico+%26+Geof%C3%ADsico;Desenvolvedor+%26+Professor;AI Safety Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=F%C3%ADsico+%26+Geof%C3%ADsico;Desenvolvedor+%26+Professor;AI+Safety+Researcher" alt="Typing SVG" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
