@@ -7,13 +7,13 @@
  </p>
  <p align="center">
 	 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=F%C3%ADsico+%26+Geof%C3%ADsico;Desenvolvedor+%26+Professor;Entusiasta+de+AI+Safety+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=F%C3%ADsico+%26+Geof%C3%ADsico;Desenvolvedor+%26+Professor;AI Safety Researcher" alt="Typing SVG" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-cebin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp&nbsp
 <!-- <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a> -->
-<a title="My personal electronic mail account" href="mailto:pepesilvia21@protonmail.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
-<a title="My academic email account, for university related subjects" href="mailto:college.cebin@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>&nbsp&nbsp
+<a title="My personal electronic mail account" href="mailto:cebin.leonardo@outlook.com" target="blank"><img align="center" src="https://pbs.twimg.com/media/FUBEW9iXsAIID6d.jpg" height="30" width="30" /></a>&nbsp&nbsp
+<a title="My academic email account, for university related subjects" href="mailto:leonardo.cebin@usp.br" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="30" width="30" /></a>&nbsp&nbsp
 </p>
 </p>
 
@@ -26,27 +26,27 @@
   
   <!-- Início das 8 Caixas de Imagens Clicáveis (110x110) -->
   
-  <a href="https://www.iag.usp.br/" target="_blank" rel="noopener noreferrer">
+  <a title="Instituto de Astronomia, Geofísica e Ciências Atmosféricas da USP" href="https://www.iag.usp.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMlpiG5lFJ3dWjKI9LSuXQw0NNx_IT5cPRyVJ3z5Uee_5lJX9dNsA9tA&s=10" width="110" height="110" alt="Imagem 2"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://portal.if.usp.br/ifusp/" target="_blank" rel="noopener noreferrer">
+  <a title="Instituto de Física - Physics Institute" href="https://portal.if.usp.br/ifusp/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOzJhyW-nIrAEknfTlHvwge4PD1sFeppNk5-E6_ifJXz92-OXbIDUBIw&s=10" width="110" height="110" alt="IFUSP" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.iag.usp.br/geofisica" target="_blank" rel="noopener noreferrer">
+  <a title="Departamento de Geofísica - IAG/USP" href="https://www.iag.usp.br/geofisica" target="_blank" rel="noopener noreferrer">
     <img src="https://yt3.googleusercontent.com/T0nh1JCXOpUO712U07k_KSktLba9tx4b91lHvZXB8GHRK3iBC66yxzghEi5uSHOGHZ3zEwT1=s176-c-k-c0x00ffffff-no-rj-mo" width="110" height="110" alt="Imagem 8"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://www5.usp.br/" target="_blank" rel="noopener noreferrer">
+  <a title="Universidade de São Paulo" href="https://www5.usp.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.esquerdadiario.com.br/IMG/arton13446.png" width="110" height="110" alt="Imagem 4" object-fit: cover />
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.uspempreende.org/" target="_blank" rel="noopener noreferrer">
+  <a title="NEU - Núcleo de Empreendedorismo da USP" href="https://www.uspempreende.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SW6zj-5FfGzilbOZ9RiNCLeRpTiVvRPVdudF2xX1QxqTesvgzGpquvE&s=10" width="110" height="110" alt="Imagem 5"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://br.linkedin.com/company/laboratorio-diplomatico" alt="Laboratório Diplomático da USP" target="_blank" rel="noopener noreferrer">
+  <a href="https://br.linkedin.com/company/laboratorio-diplomatico" title="Laboratório Diplomático da USP" target="_blank" rel="noopener noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWwPTb9PbFYAGY8aZEuS_Yww5rk0lzxnIdEwu-cqZjLe_CqYxVHYNqMUw&s=10" width="110" height="110" alt="Imagem 6"/>
   </a>&nbsp;&nbsp;
   <!-- Fim das Caixas de Imagens Clicáveis -->
